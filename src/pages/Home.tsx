@@ -1,5 +1,9 @@
+import { Container } from "../components/container";
+
 export function Home() {
     return(
-        <div></div>
+        <Container>
+            <h1>Hey</h1>
+        </Container>
     )
 }
